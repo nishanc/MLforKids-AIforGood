@@ -1,4 +1,4 @@
-# Industrial Production Forecast
+# Climate Forecast
 
 Create a copy and use [this colab notebook](https://colab.research.google.com/drive/1cCQWAFvColI9OMYtt5LwVdIy3sAYGtMJ?usp=sharing).
 
